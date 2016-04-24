@@ -1,0 +1,2435 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"verShader",
+				"GL_VERTEX_SHADER"
+			],
+			[
+				"pu",
+				"push_back"
+			],
+			[
+				"parse",
+				"parse_known_args	function"
+			],
+			[
+				"Mea",
+				"MetaPlugin	class"
+			],
+			[
+				"callbac",
+				"callback_args	param"
+			],
+			[
+				"onre",
+				"on_reset	function"
+			],
+			[
+				"plu",
+				"plugins	param"
+			],
+			[
+				"Collec",
+				"Collector	class"
+			],
+			[
+				"KE",
+				"KeyboardInterrupt	class"
+			],
+			[
+				"offs",
+				"offset_attr	statement"
+			],
+			[
+				"Sim",
+				"SimpleXMLRPCServer	class"
+			],
+			[
+				"Simpl",
+				"SimpleXMLRPCServer	module"
+			],
+			[
+				"boubox",
+				"bounding_box_scale"
+			],
+			[
+				"kPlNo",
+				"kPluginNodeName	statement"
+			],
+			[
+				"run_",
+				"run_path	function"
+			],
+			[
+				"py",
+				"pyblish_qml	module"
+			],
+			[
+				"Viewpo",
+				"ViewportOptions	statement"
+			],
+			[
+				"Collect",
+				"CollectorOrder	instance"
+			],
+			[
+				"assrt_",
+				"assert_raises"
+			],
+			[
+				"ase",
+				"assert_not_equals"
+			],
+			[
+				"wit",
+				"with_setup"
+			],
+			[
+				"deregispl",
+				"deregister_all_plugins	function"
+			],
+			[
+				"Context",
+				"ContextPlugin"
+			],
+			[
+				"Error",
+				"ValueError"
+			],
+			[
+				"cah",
+				"cached_context	statement"
+			],
+			[
+				"itite",
+				"instance_item	statement"
+			],
+			[
+				"Insta",
+				"InstanceProxy	class"
+			],
+			[
+				"instane",
+				"instances	statement"
+			],
+			[
+				"ass",
+				"assert_true"
+			],
+			[
+				"Valu",
+				"ValueError"
+			],
+			[
+				"veri",
+				"version"
+			],
+			[
+				"_regi",
+				"_registered_paths	statement"
+			],
+			[
+				"_reg",
+				"_registered_services	statement"
+			],
+			[
+				"ve",
+				"version_info	instance"
+			],
+			[
+				"Ke",
+				"KeyError	class"
+			],
+			[
+				"plug",
+				"plugin1_3"
+			],
+			[
+				"Vali",
+				"ValidatorOrder"
+			],
+			[
+				"launc",
+				"launched	statement"
+			],
+			[
+				"thrad",
+				"threading	module"
+			],
+			[
+				"launh",
+				"launch_debug"
+			],
+			[
+				"self",
+				"setFlags"
+			],
+			[
+				"anccent",
+				"anchors.centerIn	centerIn"
+			],
+			[
+				"anchoricen",
+				"anchors.horizontalCenter	horizontal"
+			],
+			[
+				"curre",
+				"currentIndex"
+			],
+			[
+				"mouas",
+				"mousearea"
+			],
+			[
+				"role",
+				"role_names	function"
+			],
+			[
+				"ancen",
+				"anchors.centerIn	centerIn"
+			],
+			[
+				"fcu",
+				"focusChanged	statement"
+			],
+			[
+				"cons",
+				"console_changed	statement"
+			],
+			[
+				"anchcent",
+				"anchors.horizontalCenter	horizontal"
+			],
+			[
+				"MATER",
+				"MATERIALPATH"
+			],
+			[
+				"anccenter",
+				"anchors.verticalCenter	vertical"
+			],
+			[
+				"Fra",
+				"FramelessWindowHint	instance"
+			],
+			[
+				"publish",
+				"publishing	statement"
+			],
+			[
+				"excep",
+				"Exception	class"
+			],
+			[
+				"Instn",
+				"instance"
+			],
+			[
+				"plugin",
+				"plugin_proxy	statement"
+			],
+			[
+				"versi",
+				"version"
+			],
+			[
+				"dict",
+				"dictionary"
+			],
+			[
+				"Python",
+				"python34"
+			],
+			[
+				"Glch",
+				"GLchar"
+			],
+			[
+				"module",
+				"import_module"
+			],
+			[
+				"listvi",
+				"listview"
+			],
+			[
+				"Key",
+				"KeyboardInterrupt	class"
+			],
+			[
+				"GLFLO",
+				"GL_FLOAT"
+			],
+			[
+				"GLFOA",
+				"GL_FLOAT"
+			],
+			[
+				"gleE",
+				"glEnableVertexAttribArray"
+			],
+			[
+				"name",
+				"name_fld	statement"
+			],
+			[
+				"repr",
+				"representations"
+			],
+			[
+				"vers",
+				"version	statement"
+			],
+			[
+				"QListWi",
+				"QListWidgetItem"
+			],
+			[
+				"pacak",
+				"packages"
+			],
+			[
+				"pyl",
+				"pyblish_magenta	module"
+			],
+			[
+				"compover",
+				"component_versions	statement"
+			],
+			[
+				"offsc",
+				"off_screen"
+			],
+			[
+				"pyblih",
+				"pyblish_path"
+			],
+			[
+				"appe",
+				"appended	statement"
+			],
+			[
+				"app",
+				"appendPlainText	function"
+			],
+			[
+				"find",
+				"findSequencesOnDisk	statement"
+			],
+			[
+				"findSe",
+				"findSequencesInList	statement"
+			],
+			[
+				"Sys",
+				"SystemExit	class"
+			],
+			[
+				"Argm",
+				"ArgumentParser	class"
+			],
+			[
+				"sou",
+				"source_files"
+			],
+			[
+				"IDENF",
+				"IDENTIFIER"
+			],
+			[
+				"inser",
+				"insertPlainText	function"
+			],
+			[
+				"menu",
+				"menubar"
+			],
+			[
+				"pickl",
+				"pickle"
+			],
+			[
+				"Hei",
+				"ValidateHeight"
+			],
+			[
+				"deregia",
+				"deregister_all_plugins	function"
+			],
+			[
+				"cret",
+				"create_instance	function"
+			],
+			[
+				"retur",
+				"returncode"
+			],
+			[
+				"SysE",
+				"SystemExit	class"
+			],
+			[
+				"chec",
+				"check_output	function"
+			],
+			[
+				"require",
+				"requirements"
+			],
+			[
+				"validnocon",
+				"validate_no_construction_history"
+			],
+			[
+				"deregiplug",
+				"deregister_all_plugins	function"
+			],
+			[
+				"vanoc",
+				"validate_no_construction_history	module"
+			],
+			[
+				"validateno",
+				"validate_no_construction_history	module"
+			],
+			[
+				"validanocon",
+				"validate_no_construction_history	module"
+			],
+			[
+				"deregi",
+				"deregister_all_plugins	function"
+			],
+			[
+				"envir",
+				"environ	statement"
+			],
+			[
+				"write_",
+				"write_results	function"
+			],
+			[
+				"retr",
+				"returncode	statement"
+			],
+			[
+				"myin",
+				"my_instance	statement"
+			],
+			[
+				"regi",
+				"register_host	function"
+			],
+			[
+				"deregial",
+				"deregister_all_hosts	function"
+			],
+			[
+				"dehos",
+				"deregister_all_hosts	function"
+			],
+			[
+				"registered",
+				"registered_hosts	function"
+			],
+			[
+				"registee",
+				"registered_hosts	function"
+			],
+			[
+				"pybli",
+				"pyblish-magenta"
+			],
+			[
+				"Aru",
+				"ArgumentParser	class"
+			],
+			[
+				"tep",
+				"templates	param"
+			],
+			[
+				"repo",
+				"repo_is_preset	function"
+			],
+			[
+				"to",
+				"topics"
+			],
+			[
+				"Sy",
+				"SystemExit	class"
+			],
+			[
+				"Inde",
+				"IndexError	class"
+			],
+			[
+				"pas",
+				"pass_context"
+			],
+			[
+				"environm",
+				"environment	param"
+			],
+			[
+				"pro",
+				"projects"
+			],
+			[
+				"exc",
+				"except	keyword"
+			],
+			[
+				"fields",
+				"replacement_fields_from_environment"
+			],
+			[
+				"exist",
+				"existing"
+			],
+			[
+				"envnr",
+				"environment"
+			],
+			[
+				"envi",
+				"environment"
+			],
+			[
+				"env",
+				"environment"
+			],
+			[
+				"anchoi",
+				"anchors.horizontalCenter	horizontal"
+			],
+			[
+				"anc",
+				"anchors	(simple)"
+			],
+			[
+				"Contxt",
+				"ContextLabel"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/main.cpp",
+			"settings":
+			{
+				"buffer_size": 2430,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "assets/shader.vert",
+			"settings":
+			{
+				"buffer_size": 173,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "assets/shader.frag",
+			"settings":
+			{
+				"buffer_size": 90,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "sublime.sublime-project",
+			"settings":
+			{
+				"buffer_size": 931,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/marcus/Downloads/Sublime Text 3 Build 3083/Data/Packages/User/SublimeLinter.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 2060,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "Microsoft Windows [Version 6.3.9600]\n(c) 2013 Microsoft Corporation. All rights reserved.\n\nmarcus@ALIENFX>\nmarcus@ALIENFX>\nmarcus@ALIENFX>build\n'build' is not recognized as an internal or external command,\noperable program or batch file.\n\nmarcus@ALIENFX>cd\nC:\\Users\\marcus\\Dropbox\\projects\\opengl_vanilla\\src\n\nmarcus@ALIENFX>cd ..\n\nmarcus@ALIENFX>build\nmain.cpp\nimgui.cpp\ndraw.cpp\nglfw_gl3.cpp\n../ext/imgui/src/ref/glfw_gl3.cpp(13): fatal error C1083: Cannot open include file: 'GL/gl3w.h': No such file or directory\nGenerating Code...\nCompiling...\ngl3w.c\n../ext/gl3w/src/gl3w.c(31): fatal error C1083: Cannot open include file: 'GL/gl3w.h': No such file or directory\nGenerating Code...\n\nmarcus@ALIENFX>build\nmain.cpp\nimgui.cpp\ndraw.cpp\nglfw_gl3.cpp\n../ext/imgui/src/ref/glfw_gl3.cpp(13): fatal error C1083: Cannot open include file: 'GL/gl3w.h': No such file or directory\nGenerating Code...\nCompiling...\ngl3w.c\n../ext/gl3w/src/gl3w.c(31): fatal error C1083: Cannot open include file: 'GL/gl3w.h': No such file or directory\nGenerating Code...\n\nmarcus@ALIENFX>cd\nC:\\Users\\marcus\\Dropbox\\projects\\opengl_vanilla\n\nmarcus@ALIENFX>cd\nC:\\Users\\marcus\\Dropbox\\projects\\opengl_vanilla\n\nmarcus@ALIENFX>build\nmain.cpp\n../src/main.cpp(3): fatal error C1083: Cannot open include file: 'imgui/imgui.h': No such file or directory\nimgui.cpp\n../ext/imgui/src/imgui.cpp(5): fatal error C1083: Cannot open include file: 'imgui/imgui.h': No such file or directory\ndraw.cpp\n../ext/imgui/src/draw.cpp(18): fatal error C1083: Cannot open include file: 'imgui/imgui.h': No such file or directory\nglfw_gl3.cpp\n../ext/imgui/src/ref/glfw_gl3.cpp(9): fatal error C1083: Cannot open include file: 'imgui/imgui.h': No such file or directory\nGenerating Code...\nCompiling...\ngl3w.c\n../ext/gl3w/src/gl3w.c: fatal error C1041: cannot open program database 'C:\\Users\\marcus\\Dropbox\\projects\\opengl_vanilla\\build\\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS\nGenerating Code...\n\nmarcus@ALIENFX>build\nmain.cpp\n../src/main.cpp(3): fatal error C1083: Cannot open include file: 'imgui/imgui.h': No such file or directory\nimgui.cpp\n../ext/imgui/src/imgui.cpp(5): fatal error C1083: Cannot open include file: 'imgui/imgui.h': No such file or directory\ndraw.cpp\n../ext/imgui/src/draw.cpp(18): fatal error C1083: Cannot open include file: 'imgui/imgui.h': No such file or directory\nglfw_gl3.cpp\n../ext/imgui/src/ref/glfw_gl3.cpp(9): fatal error C1083: Cannot open include file: 'imgui/imgui.h': No such file or directory\nGenerating Code...\nCompiling...\ngl3w.c\nGenerating Code...\n\nmarcus@ALIENFX>build\nmain.cpp\nimgui.cpp\ndraw.cpp\nglfw_gl3.cpp\nGenerating Code...\nCompiling...\ngl3w.c\nGenerating Code...\nglfw3.lib(init.c.obj) : warning LNK4217: locally defined symbol _vsnprintf imported in function __glfwInputError\nMSVCRT.lib(vsnprintf.obj) : warning LNK4049: locally defined symbol _vsnprintf imported\nglfw3.lib(context.c.obj) : warning LNK4217: locally defined symbol _sscanf imported in function _parseVersionString\nMSVCRT.lib(vsnprintf.obj) : warning LNK4049: locally defined symbol __vsnprintf imported\n\nmarcus@ALIENFX>build\nmain.cpp\nGenerating Code...\nCompiling...\ngl3w.c\nGenerating Code...\nCompiling...\nimgui.cpp\ndraw.cpp\nglfw_gl3.cpp\nGenerating Code...\n\nmarcus@ALIENFX>build/main\nmain.cpp\nGenerating Code...\nCompiling...\ngl3w.c\nGenerating Code...\nCompiling...\nimgui.cpp\ndraw.cpp\nglfw_gl3.cpp\nGenerating Code...\n\nmarcus@ALIENFX>build\\main\n\nmarcus@ALIENFX>cd\nC:\\Users\\marcus\\Dropbox\\projects\\opengl_vanilla\n\nmarcus@ALIENFX>devenv build\\main\n\nmarcus@ALIENFX>cd build\n\nmarcus@ALIENFX>devenv main.exe\n\nmarcus@ALIENFX>cd ..\n\nmarcus@ALIENFX>build\ncl : Command line warning D9024 : unrecognized source file type '../ext/gl3w/src/gl3w.o', object file assumed\ncl : Command line warning D9024 : unrecognized source file type '../ext/imgui/src/imgui.o', object file assumed\ncl : Command line warning D9024 : unrecognized source file type '../ext/imgui/src/draw.o', object file assumed\ncl : Command line warning D9024 : unrecognized source file type '../ext/imgui/src/ref/glfw_gl3.o', object file assumed\nmain.cpp\nLINK : fatal error LNK1104: cannot open file '../ext/gl3w/src/gl3w.o'\n\nmarcus@ALIENFX>build\ncl : Command line warning D9024 : unrecognized source file type '../build/gl3w.o', object file assumed\ncl : Command line warning D9024 : unrecognized source file type '../build/imgui.o', object file assumed\ncl : Command line warning D9024 : unrecognized source file type '../build/draw.o', object file assumed\ncl : Command line warning D9024 : unrecognized source file type '../build/ref/glfw_gl3.o', object file assumed\nmain.cpp\nLINK : fatal error LNK1104: cannot open file '../build/gl3w.o'\n\nmarcus@ALIENFX>build\ncl : Command line warning D9024 : unrecognized source file type 'build/gl3w.o', object file assumed\ncl : Command line warning D9024 : unrecognized source file type 'build/imgui.o', object file assumed\ncl : Command line warning D9024 : unrecognized source file type 'build/draw.o', object file assumed\ncl : Command line warning D9024 : unrecognized source file type 'build/ref/glfw_gl3.o', object file assumed\nmain.cpp\nLINK : fatal error LNK1104: cannot open file 'build/gl3w.o'\n\nmarcus@ALIENFX>build\ncl : Command line warning D9024 : unrecognized source file type 'gl3w.o', object file assumed\ncl : Command line warning D9024 : unrecognized source file type 'imgui.o', object file assumed\ncl : Command line warning D9024 : unrecognized source file type 'draw.o', object file assumed\ncl : Command line warning D9024 : unrecognized source file type 'ref/glfw_gl3.o', object file assumed\nmain.cpp\nLINK : fatal error LNK1104: cannot open file 'gl3w.o'\n\nmarcus@ALIENFX>build\nmain.cpp\nLINK : fatal error LNK1104: cannot open file 'ref/glfw_gl3.obj'\n\nmarcus@ALIENFX>build\nmain.cpp\nglfw3.lib(init.c.obj) : warning LNK4217: locally defined symbol _vsnprintf imported in function __glfwInputError\nMSVCRT.lib(vsnprintf.obj) : warning LNK4049: locally defined symbol _vsnprintf imported\nglfw3.lib(context.c.obj) : warning LNK4217: locally defined symbol _sscanf imported in function _parseVersionString\nMSVCRT.lib(vsnprintf.obj) : warning LNK4049: locally defined symbol __vsnprintf imported\n\nmarcus@ALIENFX>\nmarcus@ALIENFX>build\nmain.cpp\n\nmarcus@ALIENFX>build\nmain.cpp\nGenerating Code...\nCompiling...\ngl3w.c\nGenerating Code...\nCompiling...\nimgui.cpp\ndraw.cpp\nglfw_gl3.cpp\nGenerating Code...\n\nmarcus@ALIENFX>build && build\\main\nmain.cpp\nC:\\Users\\marcus\\Dropbox\\projects\\opengl_vanilla\\ext\\gl3w\\include\\GL/gl3w.h(74): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int\nC:\\Users\\marcus\\Dropbox\\projects\\opengl_vanilla\\ext\\gl3w\\include\\GL/gl3w.h(74): error C2146: syntax error: missing ';' before identifier 'gl3wBindTexture'\nC:\\Users\\marcus\\Dropbox\\projects\\opengl_vanilla\\ext\\gl3w\\include\\GL/gl3w.h(140): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int\nC:\\Users\\marcus\\Dropbox\\projects\\opengl_vanilla\\ext\\gl3w\\include\\GL/gl3w.h(140): error C2146: syntax error: missing ';' before identifier 'gl3wCopyTexImage1D'\nC:\\Users\\marcus\\Dropbox\\projects\\opengl_vanilla\\ext\\gl3w\\include\\GL/gl3w.h(141): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int\nC:\\Users\\marcus\\Dropbox\\projects\\opengl_vanilla\\ext\\gl3w\\include\\GL/gl3w.h(141): error C2146: syntax error: missing ';' before identifier 'gl3wCopyTexImage2D'\nC:\\Users\\marcus\\Dropbox\\projects\\opengl_vanilla\\ext\\gl3w\\include\\GL/gl3w.h(142): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int\nC:\\Users\\marcus\\Dropbox\\projects\\opengl_vanilla\\ext\\gl3w\\include\\GL/gl3w.h(142): error C2146: syntax error: missing ';' before identifier 'gl3wCopyTexSubImage1D'\nC:\\Users\\marcus\\Dropbox\\projects\\opengl_vanilla\\ext\\gl3w\\include\\GL/gl3w.h(143): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int\nC:\\Users\\marcus\\Dropbox\\projects\\opengl_vanilla\\ext\\gl3w\\include\\GL/gl3w.h(143): error C2146: syntax error: missing ';' before identifier 'gl3wCopyTexSubImage2D'\nC:\\Users\\marcus\\Dropbox\\projects\\opengl_vanilla\\ext\\gl3w\\include\\GL/gl3w.h(178): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int\nC:\\Users\\marcus\\Dropbox\\projects\\opengl_vanilla\\ext\\gl3w\\include\\GL/gl3w.h(178): error C2146: syntax error: missing ';' before identifier 'gl3wDeleteTextures'\nC:\\Users\\marcus\\Dropbox\\projects\\opengl_vanilla\\ext\\gl3w\\include\\GL/gl3w.h(195): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int\nC:\\Users\\marcus\\Dropbox\\projects\\opengl_vanilla\\ext\\gl3w\\include\\GL/gl3w.h(195): error C2146: syntax error: missing ';' before identifier 'gl3wDrawArrays'\nC:\\Users\\marcus\\Dropbox\\projects\\opengl_vanilla\\ext\\gl3w\\include\\GL/gl3w.h(201): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int\nC:\\Users\\marcus\\Dropbox\\projects\\opengl_vanilla\\ext\\gl3w\\include\\GL/gl3w.h(201): error C2146: syntax error: missing ';' before identifier 'gl3wDrawElements'\nC:\\Users\\marcus\\Dropbox\\projects\\opengl_vanilla\\ext\\gl3w\\include\\GL/gl3w.h(241): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int\nC:\\Users\\marcus\\Dropbox\\projects\\opengl_vanilla\\ext\\gl3w\\include\\GL/gl3w.h(241): error C2146: syntax error: missing ';' before identifier 'gl3wGenTextures'\nC:\\Users\\marcus\\Dropbox\\projects\\opengl_vanilla\\ext\\gl3w\\include\\GL/gl3w.h(299): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int\nC:\\Users\\marcus\\Dropbox\\projects\\opengl_vanilla\\ext\\gl3w\\include\\GL/gl3w.h(299): error C2146: syntax error: missing ';' before identifier 'gl3wGetPointerv'\nC:\\Users\\marcus\\Dropbox\\projects\\opengl_vanilla\\ext\\gl3w\\include\\GL/gl3w.h(410): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int\nC:\\Users\\marcus\\Dropbox\\projects\\opengl_vanilla\\ext\\gl3w\\include\\GL/gl3w.h(410): error C2146: syntax error: missing ';' before identifier 'gl3wIsTexture'\nC:\\Users\\marcus\\Dropbox\\projects\\opengl_vanilla\\ext\\gl3w\\include\\GL/gl3w.h(464): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int\nC:\\Users\\marcus\\Dropbox\\projects\\opengl_vanilla\\ext\\gl3w\\include\\GL/gl3w.h(464): error C2146: syntax error: missing ';' before identifier 'gl3wPolygonOffset'\nC:\\Users\\marcus\\Dropbox\\projects\\opengl_vanilla\\ext\\gl3w\\include\\GL/gl3w.h(572): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int\nC:\\Users\\marcus\\Dropbox\\projects\\opengl_vanilla\\ext\\gl3w\\include\\GL/gl3w.h(572): error C2146: syntax error: missing ';' before identifier 'gl3wTexSubImage1D'\nC:\\Users\\marcus\\Dropbox\\projects\\opengl_vanilla\\ext\\gl3w\\include\\GL/gl3w.h(573): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int\nC:\\Users\\marcus\\Dropbox\\projects\\opengl_vanilla\\ext\\gl3w\\include\\GL/gl3w.h(573): error C2146: syntax error: missing ';' before identifier 'gl3wTexSubImage2D'\nGenerating Code...\nCompiling...\ngl3w.c\nGenerating Code...\nCompiling...\nimgui.cpp\n../ext/imgui/src/imgui.cpp: fatal error C1041: cannot open program database 'C:\\Users\\marcus\\Dropbox\\projects\\opengl_vanilla\\build\\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS\ndraw.cpp\nglfw_gl3.cpp\nGenerating Code...\n\nmarcus@ALIENFX>build\nmain.cpp\nGenerating Code...\nCompiling...\ngl3w.c\nGenerating Code...\nCompiling...\nimgui.cpp\ndraw.cpp\nglfw_gl3.cpp\nGenerating Code...\n\nmarcus@ALIENFX>build\\main	\n\nmarcus@ALIENFX>build && build\\main\nmain.cpp\nGenerating Code...\nCompiling...\ngl3w.c\n../ext/gl3w/src/gl3w.c: fatal error C1041: cannot open program database 'C:\\Users\\marcus\\Dropbox\\projects\\opengl_vanilla\\build\\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS\nGenerating Code...\nCompiling...\nimgui.cpp\n../ext/imgui/src/imgui.cpp: fatal error C1041: cannot open program database 'C:\\Users\\marcus\\Dropbox\\projects\\opengl_vanilla\\build\\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS\ndraw.cpp\n../ext/imgui/src/draw.cpp: fatal error C1041: cannot open program database 'C:\\Users\\marcus\\Dropbox\\projects\\opengl_vanilla\\build\\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS\nglfw_gl3.cpp\nGenerating Code...\n\nmarcus@ALIENFX>build\nmain.cpp\nGenerating Code...\nCompiling...\ngl3w.c\n../ext/gl3w/src/gl3w.c: fatal error C1041: cannot open program database 'C:\\Users\\marcus\\Dropbox\\projects\\opengl_vanilla\\build\\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS\nGenerating Code...\nCompiling...\nimgui.cpp\n../ext/imgui/src/imgui.cpp: fatal error C1041: cannot open program database 'C:\\Users\\marcus\\Dropbox\\projects\\opengl_vanilla\\build\\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS\ndraw.cpp\n../ext/imgui/src/draw.cpp: fatal error C1041: cannot open program database 'C:\\Users\\marcus\\Dropbox\\projects\\opengl_vanilla\\build\\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS\nglfw_gl3.cpp\nGenerating Code...\n\nmarcus@ALIENFX>build\nmain.cpp\nGenerating Code...\nCompiling...\ngl3w.c\nGenerating Code...\nCompiling...\nimgui.cpp\ndraw.cpp\nglfw_gl3.cpp\nGenerating Code...\n\nmarcus@ALIENFX>build\nmain.cpp\nGenerating Code...\nCompiling...\ngl3w.c\n../ext/gl3w/src/gl3w.c: fatal error C1041: cannot open program database 'C:\\Users\\marcus\\Dropbox\\projects\\opengl_vanilla\\build\\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS\nGenerating Code...\nCompiling...\nimgui.cpp\n../ext/imgui/src/imgui.cpp: fatal error C1041: cannot open program database 'C:\\Users\\marcus\\Dropbox\\projects\\opengl_vanilla\\build\\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS\ndraw.cpp\n../ext/imgui/src/draw.cpp: fatal error C1041: cannot open program database 'C:\\Users\\marcus\\Dropbox\\projects\\opengl_vanilla\\build\\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS\nglfw_gl3.cpp\nGenerating Code...\n\nmarcus@ALIENFX>build\nmain.cpp\nGenerating Code...\nCompiling...\ngl3w.c\nGenerating Code...\nCompiling...\nimgui.cpp\ndraw.cpp\nglfw_gl3.cpp\nGenerating Code...\n\nmarcus@ALIENFX>build\nmain.cpp\nGenerating Code...\nCompiling...\ngl3w.c\nGenerating Code...\nCompiling...\nimgui.cpp\ndraw.cpp\nglfw_gl3.cpp\nGenerating Code...\n\nmarcus@ALIENFX>build\\main\n\nmarcus@ALIENFX>build\nmain.cpp\nGenerating Code...\nCompiling...\ngl3w.c\nGenerating Code...\nCompiling...\nimgui.cpp\ndraw.cpp\nglfw_gl3.cpp\nGenerating Code...\n\nmarcus@ALIENFX>build\\main\n\nmarcus@ALIENFX>build\nmain.cpp\nGenerating Code...\nCompiling...\ngl3w.c\nGenerating Code...\nCompiling...\nimgui.cpp\ndraw.cpp\nglfw_gl3.cpp\nGenerating Code...\n\nmarcus@ALIENFX>build\\main\n\nmarcus@ALIENFX>build\nmain.cpp\nGenerating Code...\nCompiling...\ngl3w.c\nGenerating Code...\nCompiling...\nimgui.cpp\ndraw.cpp\nglfw_gl3.cpp\nGenerating Code...\n\nmarcus@ALIENFX>build\\main\n\nmarcus@ALIENFX>build && build\\main\nmain.cpp\nGenerating Code...\nCompiling...\ngl3w.c\nGenerating Code...\nCompiling...\nimgui.cpp\ndraw.cpp\nglfw_gl3.cpp\nGenerating Code...\n\nmarcus@ALIENFX>build && build\\main\nmain.cpp\nGenerating Code...\nCompiling...\ngl3w.c\nGenerating Code...\nCompiling...\nimgui.cpp\ndraw.cpp\nglfw_gl3.cpp\nGenerating Code...\n\nmarcus@ALIENFX>build && build\\main\nmain.cpp\nGenerating Code...\nCompiling...\ngl3w.c\nGenerating Code...\nCompiling...\nimgui.cpp\ndraw.cpp\nglfw_gl3.cpp\nGenerating Code...\n\nmarcus@ALIENFX>build && build\\main\nmain.cpp\nGenerating Code...\nCompiling...\ngl3w.c\nGenerating Code...\nCompiling...\nimgui.cpp\ndraw.cpp\nglfw_gl3.cpp\nGenerating Code...\nAssertion failed: g.Initialized, file ../ext/imgui/src/imgui.cpp, line 1908\n\nmarcus@ALIENFX>build\nmain.cpp\nGenerating Code...\nCompiling...\ngl3w.c\n../ext/gl3w/src/gl3w.c: fatal error C1041: cannot open program database 'C:\\Users\\marcus\\Dropbox\\projects\\opengl_vanilla\\build\\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS\nGenerating Code...\nCompiling...\nimgui.cpp\n../ext/imgui/src/imgui.cpp: fatal error C1041: cannot open program database 'C:\\Users\\marcus\\Dropbox\\projects\\opengl_vanilla\\build\\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS\ndraw.cpp\n../ext/imgui/src/draw.cpp: fatal error C1041: cannot open program database 'C:\\Users\\marcus\\Dropbox\\projects\\opengl_vanilla\\build\\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS\nglfw_gl3.cpp\nGenerating Code...\n\nmarcus@ALIENFX>build-fast\n'build-fast' is not recognized as an internal or external command,\noperable program or batch file.\n\nmarcus@ALIENFX>build-quick\nmain.cpp\n\nmarcus@ALIENFX>build-quick\nmain.cpp\n\nmarcus@ALIENFX>build-quick\nshader.cpp\n../src/shader.cpp(41): error C2398: Element '1': conversion from 'int' to 'char' requires a narrowing conversion\n../src/shader.cpp(54): error C2398: Element '1': conversion from 'int' to 'char' requires a narrowing conversion\nmain.cpp\nGenerating Code...\n\nmarcus@ALIENFX>build-quick\nshader.cpp\n../src/shader.cpp(54): error C2398: Element '1': conversion from 'int' to 'char' requires a narrowing conversion\nmain.cpp\nGenerating Code...\n\nmarcus@ALIENFX>build-quick\nshader.cpp\nmain.cpp\nGenerating Code...\nglfw3.lib(init.c.obj) : warning LNK4217: locally defined symbol _vsnprintf imported in function __glfwInputError\nMSVCRT.lib(vsnprintf.obj) : warning LNK4049: locally defined symbol _vsnprintf imported\nglfw3.lib(context.c.obj) : warning LNK4217: locally defined symbol _sscanf imported in function _parseVersionString\nMSVCRT.lib(vsnprintf.obj) : warning LNK4049: locally defined symbol __vsnprintf imported\n\nmarcus@ALIENFX>build-quick\nshader.cpp\nmain.cpp\nGenerating Code...\n\nmarcus@ALIENFX>build-quick\nshader.cpp\nmain.cpp\nGenerating Code...\n\nmarcus@ALIENFX>build\\main\n\nLinking Program\nVertex info\n-----------\n(0) : error C5145: must write to gl_Position\n\n\nLinking Program\nVertex info\n-----------\n(0) : error C5145: must write to gl_Position\n\n\nmarcus@ALIENFX>cd assets\n\nmarcus@ALIENFX>..\\build\\main\n\nLinking Program\n\n\nLinking Program\n\n\nmarcus@ALIENFX>..\\build-quick\nThe system cannot find the path specified.\nshader.cpp\n../src/shader.cpp(12): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory\nmain.cpp\nGenerating Code...\n\nmarcus@ALIENFX>cd ..\n\nmarcus@ALIENFX>build-quick\nshader.cpp\n../src/shader.cpp(12): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory\nmain.cpp\nGenerating Code...\n\nmarcus@ALIENFX>build-quick\nshader.cpp\nmain.cpp\nGenerating Code...\nglfw3.lib(init.c.obj) : warning LNK4217: locally defined symbol _vsnprintf imported in function __glfwInputError\nMSVCRT.lib(vsnprintf.obj) : warning LNK4049: locally defined symbol _vsnprintf imported\nglfw3.lib(context.c.obj) : warning LNK4217: locally defined symbol _sscanf imported in function _parseVersionString\nMSVCRT.lib(vsnprintf.obj) : warning LNK4049: locally defined symbol __vsnprintf imported\n\nmarcus@ALIENFX>build-quick\nshader.cpp\nmain.cpp\nGenerating Code...\n\nmarcus@ALIENFX>build-quick\nshader.cpp\nmain.cpp\nGenerating Code...\n\nmarcus@ALIENFX>build-quick\nshader.cpp\nmain.cpp\nGenerating Code...\n\nmarcus@ALIENFX>build-quick\nshader.cpp\nmain.cpp\nGenerating Code...\n\nmarcus@ALIENFX>cd assets\n\nmarcus@ALIENFX>..\\build\\main\nCompiling shader : shader.vert\n\nCompiling shader : shader.frag\n\nLinking program\n\n\nmarcus@ALIENFX>..\\build\\main\nCompiling shader : shader.vert\n\nCompiling shader : shader.frag\n\nLinking program\n\n\nmarcus@ALIENFX>cd .. && build-quick && cd assets && ..\\build\\main\nshader.cpp\nmain.cpp\nGenerating Code...\nCompiling shader : shader.vert\n\nCompiling shader : shader.frag\n\nLinking program\n\n\nmarcus@ALIENFX>",
+			"settings":
+			{
+				"buffer_size": 19564,
+				"line_ending": "Windows",
+				"name": "*REPL* [shell]",
+				"scratch": true
+			}
+		},
+		{
+			"file": "src/shader.cpp",
+			"settings":
+			{
+				"buffer_size": 3221,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "build.bat",
+			"settings":
+			{
+				"buffer_size": 558,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "build-quick.bat",
+			"settings":
+			{
+				"buffer_size": 489,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "GLFW",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"GLFW",
+					""
+				],
+				[
+					"GLFW",
+					"Build & Run"
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/MayaPy.sublime-build",
+					""
+				],
+				[
+					"Packages/User/MyPython.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Python3.sublime-build",
+					""
+				],
+				[
+					"Packages/User/PythonExec.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/MyPython.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Build Library",
+					""
+				],
+				[
+					"GLFW",
+					""
+				],
+				[
+					"GLFW",
+					"Build & Run"
+				],
+				[
+					"GLFW",
+					"Full Rebuild"
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/C++11/C++11.sublime-build",
+					""
+				],
+				[
+					"Packages/C++11/C++11.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Glitter.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Glitter.sublime-build",
+					"Build and Run"
+				],
+				[
+					"Packages/User/Glitter.sublime-build",
+					"Build and Run without Warnings"
+				],
+				[
+					"Packages/User/MyC++.sublime-build",
+					""
+				],
+				[
+					"Packages/User/MyC++.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"GLFW",
+				"Build & Run"
+			]
+		],
+		[
+			[
+				[
+					"Cinder for Windows",
+					""
+				],
+				[
+					"Cinder for Windows",
+					"Build & Run"
+				],
+				[
+					"Cinder for Windows",
+					"Full Rebuild"
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/C++11/C++11.sublime-build",
+					""
+				],
+				[
+					"Packages/C++11/C++11.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Glitter.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Glitter.sublime-build",
+					"Build and Run"
+				],
+				[
+					"Packages/User/Glitter.sublime-build",
+					"Build and Run without Warnings"
+				],
+				[
+					"Packages/User/MyC++.sublime-build",
+					""
+				],
+				[
+					"Packages/User/MyC++.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Cinder for Windows",
+				"Build & Run"
+			]
+		],
+		[
+			[
+				[
+					"Cinder for Windows",
+					""
+				],
+				[
+					"Cinder for Windows",
+					"Full Rebuild"
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/C++11/C++11.sublime-build",
+					""
+				],
+				[
+					"Packages/C++11/C++11.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Glitter.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Glitter.sublime-build",
+					"Build and Run"
+				],
+				[
+					"Packages/User/Glitter.sublime-build",
+					"Build and Run without Warnings"
+				],
+				[
+					"Packages/User/MyC++.sublime-build",
+					""
+				],
+				[
+					"Packages/User/MyC++.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Cinder for Windows",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Cinder for Windows",
+					""
+				],
+				[
+					"Cinder for Windows",
+					"Full rebuild"
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/C++11/C++11.sublime-build",
+					""
+				],
+				[
+					"Packages/C++11/C++11.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Glitter.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Glitter.sublime-build",
+					"Build and Run"
+				],
+				[
+					"Packages/User/Glitter.sublime-build",
+					"Build and Run without Warnings"
+				],
+				[
+					"Packages/User/MyC++.sublime-build",
+					""
+				],
+				[
+					"Packages/User/MyC++.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Cinder for Windows",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Cinder for Windows",
+					""
+				],
+				[
+					"Cinder for Windows",
+					"Run"
+				],
+				[
+					"Cinder for Windows",
+					"Full Rebuild"
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/C++11/C++11.sublime-build",
+					""
+				],
+				[
+					"Packages/C++11/C++11.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Glitter.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Glitter.sublime-build",
+					"Build and Run"
+				],
+				[
+					"Packages/User/Glitter.sublime-build",
+					"Build and Run without Warnings"
+				],
+				[
+					"Packages/User/MyC++.sublime-build",
+					""
+				],
+				[
+					"Packages/User/MyC++.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Cinder for Windows",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"GLFW",
+					""
+				],
+				[
+					"GLFW",
+					"Build & Run"
+				],
+				[
+					"GLFW",
+					"Full Rebuild"
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/C++11/C++11.sublime-build",
+					""
+				],
+				[
+					"Packages/C++11/C++11.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Glitter.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Glitter.sublime-build",
+					"Build and Run"
+				],
+				[
+					"Packages/User/Glitter.sublime-build",
+					"Build and Run without Warnings"
+				],
+				[
+					"Packages/User/MyC++.sublime-build",
+					""
+				],
+				[
+					"Packages/User/MyC++.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"GLFW",
+				"Build & Run"
+			]
+		],
+		[
+			[
+				[
+					"GLFW",
+					""
+				],
+				[
+					"GLFW",
+					"Build & Run"
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/C++11/C++11.sublime-build",
+					""
+				],
+				[
+					"Packages/C++11/C++11.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Glitter.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Glitter.sublime-build",
+					"Build and Run"
+				],
+				[
+					"Packages/User/Glitter.sublime-build",
+					"Build and Run without Warnings"
+				],
+				[
+					"Packages/User/MyC++.sublime-build",
+					""
+				],
+				[
+					"Packages/User/MyC++.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"GLFW",
+				"Build & Run"
+			]
+		],
+		[
+			[
+				[
+					"GLFW",
+					""
+				],
+				[
+					"GLFW",
+					"Build All & Run"
+				],
+				[
+					"GLFW",
+					"Build & Run"
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/C++11/C++11.sublime-build",
+					""
+				],
+				[
+					"Packages/C++11/C++11.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Glitter.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Glitter.sublime-build",
+					"Build and Run"
+				],
+				[
+					"Packages/User/Glitter.sublime-build",
+					"Build and Run without Warnings"
+				],
+				[
+					"Packages/User/MyC++.sublime-build",
+					""
+				],
+				[
+					"Packages/User/MyC++.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"GLFW",
+				"Build & Run"
+			]
+		]
+	],
+	"build_varint": "Build & Run",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "she",
+		"selected_items":
+		[
+			[
+				"she",
+				"SublimeREPL: Shell"
+			],
+			[
+				"shel",
+				"SublimeREPL: Shell"
+			],
+			[
+				"bat",
+				"Set Syntax: Batch File"
+			],
+			[
+				"pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"mypy",
+				"Build With: MyPython"
+			],
+			[
+				"repl",
+				"SublimeREPL: Shell"
+			],
+			[
+				"repl shl",
+				"SublimeREPL: Shell"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"enabl",
+				"Package Control: Enable Package"
+			],
+			[
+				"c++1",
+				"Set Syntax: C++11"
+			],
+			[
+				"c+",
+				"Set Syntax: C++11"
+			],
+			[
+				"c++",
+				"Set Syntax: C++11"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"pyton",
+				"SublimeREPL: Python"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"PYTHON",
+				"Set Syntax: Python"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"lint",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"disabl lin",
+				"SublimeLinter: Disable Linter"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"pytho",
+				"Set Syntax: Python"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"msbui",
+				"Set Syntax: MSBuild"
+			],
+			[
+				"json",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"scss",
+				"Set Syntax: CSS"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"brow pa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"synta xml",
+				"Set Syntax: XML"
+			],
+			[
+				"previ",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"pyhon",
+				"Set Syntax: Python"
+			],
+			[
+				"yaml",
+				"Set Syntax: YAML"
+			],
+			[
+				"markdo",
+				"Set Syntax: Markdown"
+			],
+			[
+				"previe",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"pytyhon",
+				"SublimeREPL: Python - IPython"
+			],
+			[
+				"pythn",
+				"Set Syntax: Python"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"jsontr",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"reinde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reinden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"c",
+				"Set Syntax: C"
+			],
+			[
+				"cma",
+				"Set Syntax: CMake"
+			],
+			[
+				"brows",
+				"Preferences: Browse Packages"
+			],
+			[
+				"pthon",
+				"SublimeREPL: Python"
+			],
+			[
+				"py",
+				"Set Syntax: Python"
+			],
+			[
+				"markdow",
+				"Set Syntax: Markdown"
+			],
+			[
+				"syntax c",
+				"Set Syntax: C"
+			],
+			[
+				"new buil",
+				"Build: New Build System"
+			],
+			[
+				"kl",
+				"Set Syntax: KL"
+			],
+			[
+				"disable",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"batch",
+				"Set Syntax: Batch File"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"docker",
+				"Set Syntax: Dockerfile"
+			],
+			[
+				"enable ",
+				"Package Control: Enable Package"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"build",
+				"Build: New Build System"
+			],
+			[
+				"enable pa",
+				"Package Control: Enable Package"
+			],
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"w",
+				"Word Wrap: Toggle"
+			],
+			[
+				"previw",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"disabe",
+				"Package Control: Disable Package"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"upd",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"disabl",
+				"Package Control: Disable Package"
+			],
+			[
+				"synt pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"wor",
+				"Word Wrap: Toggle"
+			],
+			[
+				"prev",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"innose",
+				"Set Syntax: InnoSetup"
+			],
+			[
+				"repl pyth",
+				"SublimeREPL: Python - RUN current file"
+			],
+			[
+				"replpyth",
+				"SublimeREPL: Python - Sublime Text Console"
+			],
+			[
+				"replpy",
+				"SublimeREPL: Python - RUN current file"
+			],
+			[
+				"disable ",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"qml",
+				"Set Syntax: QML"
+			],
+			[
+				"settings",
+				"Preferences: Settings - User"
+			],
+			[
+				"keys",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"keyb",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - Default"
+			]
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 203.0,
+		"history":
+		[
+			"_.kill()",
+			"_",
+			"subprocess.Popen([\"clang\"])",
+			"import subprocess",
+			"clang",
+			"view.run_command(\"my_exec\")",
+			"view.run_command(\"python_exec\")",
+			"view.run_command(\"my_execd\")",
+			"view.run_command(\"my_exec\")",
+			"view.run_command(\"MyExec\")",
+			"view.run_command",
+			"open_in_explorer()",
+			"open_in_explorer",
+			"OpenInExplorer",
+			"User.PythonExec",
+			"PythonExec",
+			"print(\"Hello\")",
+			"myexec",
+			"MyExec",
+			"run_in_shell()",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/marcus/Dropbox/projects/opengl_vanilla",
+		"/C/Users/marcus/Dropbox/projects/opengl_vanilla/ext",
+		"/C/Users/marcus/Dropbox/projects/opengl_vanilla/ext/imgui/examples",
+		"/C/Users/marcus/Dropbox/projects/opengl_vanilla/ext/imgui/examples/opengl3_example",
+		"/C/Users/marcus/Dropbox/projects/opengl_vanilla/ext/imgui/include/imgui/ref",
+		"/C/Users/marcus/Dropbox/projects/opengl_vanilla/ext/imgui/src/ref",
+		"/C/Users/marcus/Dropbox/projects/opengl_vanilla/include",
+		"/C/Users/marcus/Dropbox/projects/opengl_vanilla/src",
+		"/C/Users/marcus/Dropbox/AF/development/marcus/github/imgui/include"
+	],
+	"file_history":
+	[
+		"/C/Users/marcus/Dropbox/projects/opengl_vanilla/include/shader.h",
+		"/C/Users/marcus/Downloads/Sublime Text 3 Build 3083/Data/Packages/User/SublimeREPL.sublime-settings",
+		"/C/Users/marcus/Desktop/TEMP/lib.py",
+		"/C/Users/marcus/Dropbox/projects/opengl_vanilla/ext/gl3w/gl3w_gen.py",
+		"/C/Users/marcus/Dropbox/AF/development/marcus/github/imgui/include/imgui/ref/glfw.h",
+		"/C/Users/marcus/Dropbox/projects/opengl_vanilla/build-clang.bat",
+		"/C/Users/marcus/Dropbox/projects/opengl_vanilla/ext/imgui/include/imgui/ref/glfw.h",
+		"/C/Users/marcus/Dropbox/projects/opengl_vanilla/ext/imgui/include/imgui/imgui.h",
+		"/C/Users/marcus/Dropbox/AF/development/marcus/github/imgui/include/imgui/imgui_internal.h",
+		"/C/Users/marcus/Dropbox/projects/opengl_vanilla/build/imgui.ini",
+		"/C/Users/marcus/Dropbox/AF/development/marcus/github/imgui/src/ref/glfw.cpp",
+		"/C/Users/marcus/Dropbox/AF/development/marcus/github/imgui/src/imgui.cpp",
+		"/C/Users/marcus/Dropbox/AF/development/marcus/github/imgui/src/reference/glfw.cpp",
+		"/C/Users/marcus/Dropbox/AF/development/marcus/github/imgui/include/imgui/reference/imgui_glfw.h",
+		"/C/Users/marcus/Dropbox/AF/development/marcus/github/imgui/include/reference/imgui_glfw.cpp",
+		"/C/Users/marcus/Dropbox/AF/development/marcus/github/imgui/include/reference/imgui_glfw.h",
+		"/C/Users/marcus/Dropbox/AF/development/marcus/github/imgui/src/imgui_draw.cpp",
+		"/C/Users/marcus/Dropbox/projects/opengl_vanilla/sublime.sublime-project",
+		"/C/Users/marcus/Dropbox/projects/opengl_vanilla/ext/mydll/build.bat",
+		"/C/Users/marcus/Dropbox/projects/opengl_vanilla/ext/imgui/build.bat",
+		"/C/Users/marcus/Dropbox/projects/opengl_vanilla/ext/mydll/build-lib.bat",
+		"/C/Users/marcus/Dropbox/AF/development/marcus/github/imgui/src/imgui.h",
+		"/C/Users/marcus/Dropbox/AF/development/marcus/github/imgui/assets/README.txt",
+		"/C/Users/marcus/Dropbox/AF/development/marcus/github/imgui/assets/binary_to_compressed_c.cpp",
+		"/C/Users/marcus/Dropbox/AF/development/marcus/github/imgui/.travis.yml",
+		"/C/Users/marcus/Dropbox/AF/development/marcus/github/imgui/examples/imgui_demo.cpp",
+		"/C/Users/marcus/Dropbox/AF/development/marcus/github/imgui/imgui_draw.cpp",
+		"/C/Users/marcus/Dropbox/AF/development/marcus/github/imgui/imconfig.h",
+		"/C/Users/marcus/Dropbox/projects/opengl_vanilla/ext/mydll/mydll.cpp",
+		"/C/Users/marcus/Dropbox/projects/opengl_vanilla/ext/mydll/myapp.cpp",
+		"/C/Users/marcus/Dropbox/projects/opengl_vanilla/src/build-lib.bat",
+		"/C/Users/marcus/Dropbox/projects/opengl_vanilla/src/build.bat",
+		"/C/Users/marcus/Dropbox/projects/opengl_vanilla/src/imconfig.h",
+		"/C/Users/marcus/Dropbox/projects/opengl_vanilla/include/imgui/examples/sdl_opengl3_example/imgui_impl_sdl_gl3.cpp",
+		"/C/Users/marcus/Dropbox/projects/opengl_vanilla/src/imgui_test.cpp",
+		"/C/Users/marcus/Dropbox/projects/opengl_vanilla/include/imgui/examples/sdl_opengl3_example/imgui_impl_sdl_gl3.h",
+		"/C/Users/marcus/Dropbox/projects/opengl_vanilla/build.bat",
+		"/C/Users/marcus/Dropbox/projects/opengl_vanilla/sublime.sublime-workspace",
+		"/C/Users/marcus/learn-cinder/projects/windows/build.bat",
+		"/C/Users/marcus/Downloads/Sublime Text 3 Build 3083/Data/Packages/Uncrustify/Uncrustify.sublime-settings",
+		"/C/Users/marcus/learn-cinder/projects/05-generalbuild/src/main.cpp",
+		"/C/Users/marcus/learn-cinder/projects/05-generalbuild/src/his.cpp",
+		"/C/Users/marcus/Dropbox/AF/development/marcus/github/feather/build.bat",
+		"/C/Users/marcus/Dropbox/AF/development/marcus/github/feather/src/lib/core/CMakeLists.txt",
+		"/C/Users/marcus/learn-cinder/projects/05-generalbuild/src/mix.cpp",
+		"/C/Users/marcus/learn-cinder/projects/05-generalbuild/src/planet.cpp",
+		"/C/Users/marcus/Dropbox/AF/development/marcus/github/cinder_0.9.0_vc2013/samples/_opengl/VboMesh/src/VboMeshApp.cpp",
+		"/C/Users/marcus/learn-cinder/projects/05-generalbuild/src/mine.cpp",
+		"/C/Users/marcus/learn-cinder/projects/05-generalbuild/src/tetra.cpp",
+		"/C/Users/marcus/Dropbox/AF/development/marcus/github/feather/build/build.bat",
+		"/C/Users/marcus/Dropbox/AF/development/marcus/pyblish/pyblish-base/run_testsuite.py",
+		"/G/vm/OS X Mavericks/OS X Mavericks.vmx",
+		"/C/Users/marcus/learn-cinder/projects/windows/build.sublime-project",
+		"/C/Users/marcus/Dropbox/AF/development/marcus/github/cinder_0.9.0_vc2013/samples/_opengl/VboMesh/include/Resources.h",
+		"/C/Users/marcus/learn-cinder/windows/build.bat",
+		"/C/Users/marcus/learn-cinder/windows/build.sublime-project",
+		"/C/Users/marcus/learn-cinder/sublime.sublime-project",
+		"/C/Users/marcus/learn-cinder/linux/build.sublime-project",
+		"/C/Users/marcus/learn-cinder/sublime.sublime-workspace",
+		"/C/Users/marcus/learn-cinder/projects/05-generalbuild/build/vc120.pdb",
+		"/C/Users/marcus/Downloads/Sublime Text 3 Build 3083/Data/Packages/User/SublimeLinter.sublime-settings",
+		"/C/Users/marcus/learn-cinder/projects/05-generalbuild/src/lib.cpp",
+		"/C/Users/marcus/learn-cinder/projects/01-learn-cinder/build/learn-cinder.vcxproj",
+		"/C/Users/marcus/CinderProject01/vc2013/CinderProject01.vcxproj",
+		"/C/Users/marcus/learn-cinder/projects/05-generalbuild/include/myfile.h",
+		"/C/Users/marcus/learn-cinder/projects/05-generalbuild/build-lib.bat",
+		"/C/Users/marcus/learn-cinder/projects/05-generalbuild/build.bat",
+		"/C/Users/marcus/learn-cinder/projects/05-generalbuild/include/lib.h",
+		"/C/Users/marcus/learn-cinder/projects/05-generalbuild/include/lib.cpp",
+		"/C/Users/marcus/Dropbox/AF/development/marcus/pyblish/pyblish-shell/includes.json",
+		"/C/bin/term.bat",
+		"/C/Users/marcus/learn-cinder/projects/05-generalbuild/build/build.bat",
+		"/C/Users/marcus/Dropbox/AF/development/marcus/pyblish/pyblish-rpc/tests/test_mocking.py",
+		"/C/Users/marcus/Dropbox/AF/development/marcus/pyblish/pyblish-base/pyblish/logic.py",
+		"/C/Users/marcus/Dropbox/AF/development/marcus/pyblish/pyblish-base/pyblish/plugin.py",
+		"/C/Users/marcus/Dropbox/AF/development/marcus/pyblish/pyblish-shell/pyblish_shell.py",
+		"/C/Users/marcus/Dropbox/AF/development/marcus/pyblish/pyblish-base/pyblish/util.py",
+		"/C/Users/marcus/Dropbox/AF/development/marcus/pyblish/pyblish-base/tests/test_plugin.py",
+		"/C/Users/marcus/learn-cinder/projects/04-addison/src/Addison.cpp",
+		"/C/Users/marcus/Dropbox/AF/development/marcus/pyblish/pyblish-shell/dist.py",
+		"/C/Users/marcus/Dropbox/AF/development/marcus/pyblish/pyblish-qml/pyblish_qml/qml/List.qml",
+		"/C/Users/marcus/AppData/Local/Temp/Rar$DRa0.853/py.py",
+		"/C/Users/marcus/Dropbox/AF/development/marcus/pyblish/pyblish-rpc/pyblish_rpc/formatting.py",
+		"/C/Users/marcus/Dropbox/AF/development/marcus/pyblish/pyblish-shell/setup.py",
+		"/C/Users/marcus/Downloads/Sublime Text 3 Build 3083/Data/Packages/User/MyC++.sublime-build",
+		"/C/Users/marcus/Dropbox/AF/development/marcus/pyblish/pyblish-shell/pyblish_qml.bat",
+		"/C/Users/marcus/Dropbox/AF/development/marcus/pyblish/pyblish-shell/pyblish_qml",
+		"/C/Users/marcus/Dropbox/AF/development/marcus/pyblish/pyblish-shell/pyblish_tray.bat",
+		"/C/Users/marcus/Dropbox/AF/development/marcus/pyblish/pyblish-shell/pyblish_tray",
+		"/C/Users/marcus/Dropbox/AF/development/marcus/pyblish/pyblish-shell/pyblish_tray.py",
+		"/C/Users/marcus/Dropbox/AF/development/marcus/pyblish/pyblish-shell/no_console.py",
+		"/C/Users/marcus/Dropbox/AF/development/marcus/pyblish/pyblish-shell/test.py",
+		"/C/Users/marcus/Dropbox/AF/development/marcus/pyblish/pyblish-rpc/pyblish_rpc/client.py",
+		"/C/Users/marcus/Dropbox/AF/development/marcus/pyblish/pyblish-rpc/pyblish_rpc/service.py",
+		"/C/Users/marcus/Dropbox/AF/development/marcus/pyblish/pyblish-qml/pyblish_qml/control.py",
+		"/C/Users/marcus/Dropbox/AF/development/marcus/pyblish/pyblish-qml/pyblish_qml/models.py",
+		"/C/Users/marcus/Desktop/pyblish_qml.bat",
+		"/C/Users/marcus/Dropbox/AF/development/marcus/pyblish/pyblish-qml/pyblish_qml/app.py",
+		"/C/Users/marcus/Dropbox/AF/development/marcus/pyblish/pyblish-qml/pyblish_qml/qml/Terminal.qml",
+		"/C/Users/marcus/Dropbox/AF/development/marcus/pyblish/pyblish-qml/pyblish_qml/qml/delegates/ContextDelegate.qml",
+		"/C/Users/marcus/Desktop/no_console.py",
+		"/C/Users/marcus/Dropbox/AF/development/marcus/pyblish/pyblish/VERSION",
+		"/C/Users/marcus/Dropbox/AF/development/marcus/pyblish/pyblish-rpc/pyblish_rpc/version.py",
+		"/C/Users/marcus/Dropbox/AF/development/marcus/pyblish/pyblish-rpc/pyblish_rpc/mocking.py",
+		"/C/Users/marcus/Dropbox/AF/development/marcus/pyblish/pyblish-qml/pyblish_qml/version.py",
+		"/C/Users/marcus/Dropbox/AF/development/marcus/pyblish/pyblish-base/pyblish/version.py",
+		"/C/Users/marcus/Dropbox/AF/development/marcus/pyblish/pyblish/win.py",
+		"/C/Users/marcus/Dropbox/AF/development/marcus/github/cinder_0.9.0_vc2013/samples/_opengl/Cube/assets/shader.frag",
+		"/C/Users/marcus/Dropbox/AF/development/marcus/github/cinder_0.9.0_vc2013/samples/_opengl/Cube/assets/shader.vert",
+		"/C/Users/marcus/Dropbox/AF/development/marcus/pyblish/pyblish-qml/pyblish_qml/qml/Perspective/Gadget.qml",
+		"/C/Users/marcus/Dropbox/AF/development/marcus/pyblish/pyblish-base/tests/test_cli.py",
+		"/C/Users/marcus/Dropbox/AF/development/marcus/pyblish/pyblish-qml/pyblish_qml/qml/Perspective/Page.qml",
+		"/C/Users/marcus/Dropbox/AF/development/marcus/pyblish/pyblish-qml/pyblish_qml/qml/app.qml",
+		"/C/Users/marcus/Dropbox/AF/development/marcus/pyblish/pyblish-qml/tests/test_control.py",
+		"/C/Users/marcus/Dropbox/AF/development/marcus/pyblish/pyblish-base/pyblish/cli.py",
+		"/C/Users/marcus/Dropbox/AF/development/marcus/pyblish/pyblish-base/pyblish/api.py",
+		"/C/Users/marcus/learn-cinder/book/cinder/gl/bindStockShader.md",
+		"/C/Users/marcus/learn-cinder/book/cinder/color.md",
+		"/C/Users/marcus/learn-cinder/book/cinder/ImageSource.md",
+		"/C/Users/marcus/learn-cinder/book/cinder/loadUrl.md",
+		"/C/Users/marcus/learn-cinder/book/cinder/DataSource.md",
+		"/C/Users/marcus/learn-cinder/book/cinder/app/AppBase/Settings.md",
+		"/C/Users/marcus/learn-cinder/book/styles/website.sass",
+		"/C/Users/marcus/learn-cinder/book/cinder/gl/getStockShader.md",
+		"/C/Users/marcus/learn-cinder/book/cinder/gl/drawSolidCircle.md",
+		"/C/Users/marcus/learn-cinder/book/cinder/app/AppBase.md",
+		"/C/Users/marcus/Desktop/icosahedron.obj",
+		"/C/Users/marcus/learn-cinder/book/cinder/app/MouseEvent.md"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish-qml\\pyblish_qml\\qml",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish-qml\\pyblish_qml",
+			"C:\\Users\\marcus\\learn-cinder\\book",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\github\\cinder_0.9.0_vc2013\\samples",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\apidocs\\pages",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\apidocs",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish-rpc",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\apidocs\\pages",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish-qml\\tests",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish-rpc\\tests",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish-base\\tests",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\developer-guide",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish-base",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish-base\\pyblish,-C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish-base\\pyblish\\vendor",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish-base\\pyblish,-C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish-base\\pyblish\\vendor\\*",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish-base\\pyblish",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish-base",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish-base\\tests",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish-base\\pyblish",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish-base",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish-qml\\pyblish_qml",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish-base\\tests",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish-win.wiki",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish-by-example",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\developer-guide",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish.wiki",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish-win",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish-win\\pythonpath",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish\\pythonpath",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish-qml\\pyblish_qml",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish-rpc",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish-qml",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish-rpc",
+			"C:\\Users\\marcus\\Dropbox\\projects\\colorbleed\\storage1\\mnt\\share\\NETRENDER.git",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\github\\feather\\src",
+			"C:\\Users\\marcus\\Dropbox\\projects",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish\\pyblish",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish\\pyblish",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish-tray\\pyblish_tray\\qml",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish-qml\\pyblish_qml",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish\\pyblish",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish-qml",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish-qml\\pyblish_qml",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish-qml",
+			"C:\\Users\\marcus\\Dropbox\\projects\\Phoenix\\frontend\\qml",
+			"C:\\Users\\marcus\\Dropbox\\projects\\Phoenix",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish-qml",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish-qml\\pyblish_qml\\qml",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish-qml\\pyblish_qml\\qml\\Pyblish",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish-qml\\pyblish_qml",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish-qml\\pyblish_qml\\qml\\Pyblish",
+			"C:\\Users\\marcus\\Dropbox\\projects\\dice\\0.0.2",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish-win\\bin",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish-rpc",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish-qml",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish-integration",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish-standalone",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish-magenta\\pyblish_magenta",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish-qml",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish-rpc",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish-qml",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish-integration",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish-standalone",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish-magenta",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish-magenta\\pyblish_magenta\\plugins",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish-integration",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish-qml",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish-qml\\pyblish_qml\\qml",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish-integration",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish-qml\\pyblish_qml\\qml",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish-maya",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish.com\\app\\static\\css",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish-integration",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish-rpc\\pyblish_rpc",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish-qml\\pyblish_qml\\qml",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish-qml\\pyblish_qml",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish-qml",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish\\tests",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish-qml",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish-magenta",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish-x\\pythonpath",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish-magenta\\pyblish_magenta\\plugins",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish-qml\\pyblish_qml\\qml",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\be\\be\\be",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish-magenta\\pyblish_magenta\\plugins",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\be\\be",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\be\\be",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\be",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\be.wiki",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\be-by-example",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\be-tutorial-project",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\be-helloworld",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\be-game",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\be-film",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\be-ad",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\be\\be\\vendor\\click",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish\\pyblish\\plugins",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish-napoleon\\napoleon\\plugins",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish-win\\pythonpath",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish-win\\python",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish-rpc",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish-x\\python",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish\\pyblish",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish\\pyblish",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish\\tests",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish-qml\\tests",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish\\pyblish\\plugins",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish\\pyblish",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish\\tests",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish-qml\\pyblish_qml\\qml",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish-qml\\pyblish_qml",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish-rpc\\pyblish_rpc",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish-maya",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish-rpc",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish-qml",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish\\pyblish",
+			"C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\pyblish\\pyblish-rpc"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"vertexPosition_modelspace",
+			"\\n",
+			"std",
+			"glew",
+			"$folder",
+			"build.bat",
+			"vert",
+			"main",
+			"infoLogLength",
+			"msg",
+			"infoLogLength",
+			"stage",
+			"programId",
+			"string",
+			"VertexShaderErrorMessage",
+			"vertexSourcePointer",
+			"GL_VERTEX_SHADER",
+			"fname",
+			");",
+			"shadaerId",
+			"vertexShaderID",
+			"vertexShaderCode",
+			"fragmentFname",
+			"vertexFname",
+			"VertexShaderErrorMessage",
+			"vertexFname",
+			"fragmentShaderStream",
+			"vertexShaderStream",
+			"vertexShaderCode",
+			"vertex_fname",
+			"fragment_fname",
+			"vertex",
+			"vertexShaderCode",
+			"fstream",
+			"vector",
+			"string",
+			"stdio",
+			"cstdlib",
+			".",
+			"../ext",
+			"0.3f",
+			"o",
+			"build",
+			".",
+			"../ext",
+			"src",
+			"cpp",
+			"include",
+			"imgui",
+			".lib",
+			" \\",
+			"clear_color",
+			"display_h",
+			"display_w",
+			"show_another_window",
+			"240",
+			"320",
+			"imgui",
+			"PyQt5",
+			"ImGuiSetCond_FirstUseEver",
+			"ShowTe",
+			"stb_texted",
+			"stb_truetype.h",
+			"stb_textedit.h",
+			"stb_rect_pack.h",
+			"reference",
+			"Render",
+			"ImGui_ImplGlFw_",
+			"renderer",
+			"RenderDrawLists",
+			"imgui",
+			"ImGui_ImplGlfw_",
+			"ImGui_ImplGlfw_RenderDrawLists",
+			"IMGUI_INCLUDE_IMGUI_USER_INL",
+			"on the git",
+			"ImGui",
+			"IMGUI_DISABLE_INCLUDE_IMCONFIG_H",
+			"IMGUI_INCLUDE_IMCONFIG_H",
+			"IMGUI_DISABLE_INCLUDE_IMCONFIG_H",
+			"print_helo",
+			"mydll",
+			"helloworld",
+			"c_wchar_p",
+			"sys",
+			"os",
+			"float",
+			"previousTime",
+			" ..\\",
+			"file_path/..",
+			"glfw",
+			"glfw3",
+			"time",
+			"1.f",
+			"glfwGetFramebufferSize",
+			"LIBCMT",
+			"MTd",
+			"glu32",
+			"opengl32",
+			"lib",
+			"/",
+			"v4",
+			"4",
+			"v4",
+			"4",
+			"mNumColumns",
+			"mNumRows",
+			"};\n",
+			" =",
+			"mCam",
+			"texCoords",
+			"positions",
+			"v",
+			"indices",
+			"positions",
+			"vec3",
+			"position",
+			"normalize",
+			"10",
+			"mMesh",
+			"50",
+			"mCamera",
+			"system-id.enable",
+			"efi.nvram.var.MLB",
+			"efi.nvram.var.ROM",
+			"mCamera",
+			"auto",
+			"mTex",
+			"mGlsl"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"ext/stb_truetype.h",
+			"ext/stb_textedit.h",
+			"ext/stb_rect_pack.h",
+			"gl",
+			"ci::",
+			"(",
+			"(/pages/",
+			"[AbstractEntity](pages/AbstractEntity.md)",
+			"[Instance](pages/Instance.md)",
+			"[Context](pages/Context.md)",
+			"from nose.tools",
+			"__pyblish_util",
+			"DESTINATION lib",
+			"DESTINATION ",
+			"consoleCtrl",
+			"consoleCtrl.",
+			"pyblish_magenta.api.Extractor",
+			"iconSize",
+			"util = imp.load_source(\"_util\", os.path.realpath(os.path.join(__file__, \"..\", \"..\", \"_util.py\")))",
+			"\"\"\"\\n",
+			"\"\"\"",
+			"\"ERROR: ",
+			"ERROR",
+			"task",
+			"Collect",
+			"label =",
+			"install",
+			"pyblish_win.util.",
+			"import pyblish_win.util",
+			"install",
+			"pyblish_win",
+			"import pyblish_win.util",
+			"pyblish_win.util.",
+			"pyblish_win.util",
+			"import pyblish_win.util",
+			"pyblish_x.util.wrap_module",
+			"import pyblish_x.util",
+			"pyblish_x",
+			"process",
+			"en",
+			"pre11",
+			"util.process_all",
+			"plugin.repair",
+			"plugin.process",
+			"pyblish_qml",
+			"formatting."
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/main.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2430,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								180,
+								180
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "assets/shader.vert",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 173,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								123,
+								123
+							],
+							[
+								170,
+								170
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/OpenGL Shading Language (GLSL)/GLSL.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "assets/shader.frag",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 90,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								88,
+								88
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/OpenGL Shading Language (GLSL)/GLSL.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 3,
+					"file": "sublime.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 931,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								59,
+								59
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": -0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/Users/marcus/Downloads/Sublime Text 3 Build 3083/Data/Packages/User/SublimeLinter.sublime-settings",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2060,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								692,
+								692
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 19564,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								19564,
+								19564
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"auto_indent": false,
+							"detect_indentation": false,
+							"gutter": false,
+							"history_arrows": true,
+							"indent_subsequent_lines": false,
+							"line_numbers": false,
+							"repl": true,
+							"repl_external_id": "shell",
+							"repl_id": "e09f12dee529477eb994d63a9e19b452",
+							"repl_restart_args":
+							{
+								"cmd":
+								{
+									"linux":
+									[
+										"bash",
+										"-i"
+									],
+									"osx":
+									[
+										"bash",
+										"-i"
+									],
+									"windows":
+									[
+										"cmd.exe"
+									]
+								},
+								"cmd_postfix": "\n",
+								"cwd": "$file_path",
+								"encoding":
+								{
+									"linux": "utf-8",
+									"osx": "utf-8",
+									"windows": "$win_cmd_encoding"
+								},
+								"env":
+								{
+								},
+								"external_id": "shell",
+								"suppress_echo": true,
+								"syntax": "Packages/Text/Plain text.tmLanguage",
+								"type": "subprocess"
+							},
+							"repl_sublime2": false,
+							"smart_indent": false,
+							"spell_check": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 10043.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 6,
+					"file": "src/shader.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3221,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1291,
+								1291
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 170.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "build.bat",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 558,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								150,
+								150
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Batch File/Batch File.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 49.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "build-quick.bat",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 489,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								178,
+								178
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Batch File/Batch File.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				2
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.533875484705,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.517899761337,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.exec":
+	{
+		"height": 251.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 92.0
+	},
+	"pinned_build_system": "",
+	"project": "sublime.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"python",
+				"pyblish-win\\bin\\python.bat"
+			],
+			[
+				"formatting",
+				"pyblish-rpc\\pyblish_rpc\\formatting.py"
+			],
+			[
+				"pyblishplugin.py",
+				"pyblish\\pyblish\\plugin.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 400.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 443.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 170.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

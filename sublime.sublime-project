@@ -1,0 +1,57 @@
+{
+	"build_systems":
+	[
+		{
+			"cmd":
+			[
+				"build.bat",
+			],
+			"name": "GLFW",
+			"syntax": "Packages/ANSIescape/ANSI.tmLanguage",
+			"target": "ansi_color_build",
+			"variants":
+			[
+				{
+					"cmd":
+					[
+						"build.bat",
+						"&&",
+						"$folder/build/$file_base_name.exe"
+					],
+					"name": "Build All & Run",
+					"shell": true
+				},
+				{
+					"cmd":
+					[
+						"build-quick.bat",
+						"&&",
+						"$folder/build/$file_base_name.exe"
+					],
+					"name": "Build & Run",
+					"shell": true
+				}
+			],
+			"working_dir": "$folder"
+		},
+		{
+			"file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+			"name": "Anaconda Python Builder",
+			"selector": "source.python",
+			"shell_cmd": "\"python\" -u \"$file\""
+		}
+	],
+	"env":
+	{
+		"INCLUDE": "../ext/imgui/include;%INCLUDE%"
+	},
+	"folders":
+	[
+		{
+			"path": "."
+		},
+		{
+			"path": "C:\\Users\\marcus\\Dropbox\\AF\\development\\marcus\\github\\imgui"
+		}
+	]
+}
