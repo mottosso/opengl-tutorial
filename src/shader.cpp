@@ -11,7 +11,8 @@
 
 #include "shader.h"
 
-GLuint LoadShaders(const char * vertex_file_path,const char * fragment_file_path){
+
+GLuint Shader::Load(const char * vertex_file_path,const char * fragment_file_path){
 
     // Create the shaders
     GLuint VertexShaderID = glCreateShader(GL_VERTEX_SHADER);
@@ -86,7 +87,7 @@ GLuint LoadShaders(const char * vertex_file_path,const char * fragment_file_path
     // Check the program
     glGetProgramiv(ProgramID, GL_LINK_STATUS, &Result);
     glGetProgramiv(ProgramID, GL_INFO_LOG_LENGTH, &InfoLogLength);
-    std::vector<char> ProgramErrorMessage( max(InfoLogLength, int(1)) );
+    std::vector<char> ProgramErrorMessage( std::max(InfoLogLength, int(1)) );
     glGetProgramInfoLog(ProgramID, InfoLogLength, NULL, &ProgramErrorMessage[0]);
     fprintf(stdout, "%s\n", &ProgramErrorMessage[0]);
 
@@ -96,4 +97,3 @@ GLuint LoadShaders(const char * vertex_file_path,const char * fragment_file_path
 
     return ProgramID;
 }
-
