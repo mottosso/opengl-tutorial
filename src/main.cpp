@@ -17,6 +17,23 @@
 
 using namespace glm;
 
+// Temporary global variables
+float dt;
+bool isMousePressed { false }; // Is the mouse currently pressed?
+bool isMouseWithinWindow { false }; // Is the mouse currently within a window?
+float mouseSensitivity = 0.5f;
+double mouseLastX { 0 };
+double mouseLastY { 0 };
+
+float horizontalAngle = 3.14f;
+float verticalAngle = 0.0f;
+
+// Forward declarations
+void onKeyPress(GLFWwindow* window, int key, int scancode, int action, int mods);
+void onMouseMove(GLFWwindow* window, double xpos, double ypos);
+void onMousePress(GLFWwindow* window, int button, int action, int mods);
+inline vec3 positionFromMatrix(const mat4 & matrix);
+
 
 int main(void)
 {
@@ -42,6 +59,7 @@ int main(void)
     glfwWindowHint(GLFW_DEPTH_BITS, 32);
 
     glfwMakeContextCurrent(window);
+    glfwSetInputMode(window, GLFW_CURSOR, GLFW_CURSOR_DISABLED);
     glfwSwapInterval(0);  // Do not vsync
 
     gl3wInit();
@@ -50,6 +68,7 @@ int main(void)
     Init(window, false);
 
     glEnable(GL_DEPTH_TEST);
+    glEnable(GL_CULL_FACE);
     glDepthFunc(GL_LESS);
 
     GLuint vertexArrayId;
@@ -194,6 +213,8 @@ int main(void)
     float near { 0.1f };
     float far { 100.0f };
     float dolly { 0.0f };
+
+    // Object settings
     float translateX { 0.0f };
     float translateY { 0.0f };
     float translateZ { 0.0f };
@@ -205,15 +226,19 @@ int main(void)
     float scaleZ { 1.0f };
 
     // Close window on ESC
-    glfwSetKeyCallback(window, [](GLFWwindow* window, int key, int scancode, int action, int mods) {
-        if (key == GLFW_KEY_ESCAPE && action == GLFW_PRESS)
-            glfwSetWindowShouldClose(window, GL_TRUE);
-    });
+    glfwSetKeyCallback(window, onKeyPress);
+    glfwSetCursorPosCallback(window, onMouseMove);
+    glfwSetMouseButtonCallback(window, onMousePress);
 
+    double lastTime { glfwGetTime() };
     int displayWidth, displayHeight;
     while (!glfwWindowShouldClose(window))
     {
         glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);
+
+        // Compute time delta
+        dt = float(glfwGetTime() - lastTime);
+        lastTime = glfwGetTime();
 
         glUseProgram(programId);
 
@@ -224,12 +249,14 @@ int main(void)
 
         mat4 projection { perspective(radians(fov), 4.0f / 3.0f, near, far) };
         mat4 view { lookAt(
-            vec3(4, 3, 3),
-            vec3(0, 0, 0),
-            vec3(0, 1, 0)
+            vec3(4, 3, 3), // Camera position
+            vec3(0, 0, 0), // Camera target
+            vec3(0, 1, 0)  // Camera up-vector
         )};
 
-        view = rotate(view, radians(dolly), vec3(0.0f, 1.0f, 0.0f));
+        vec3 cameraPos { positionFromMatrix(view) };
+        view = rotate(view, radians(verticalAngle), cross(cameraPos, vec3(0, -1, 0)));
+        view = rotate(view, radians(horizontalAngle), vec3(0.0f, 1.0f, 0.0f));
 
         mat4 model { mat4(1.0f) };
         model = translate(model, vec3(translateX, translateY, translateZ));
@@ -247,6 +274,7 @@ int main(void)
         ImGui::SliderFloat("near", &near, 0.1f, 20.0f);
         ImGui::SliderFloat("far", &far, 0.0f, 20.0f);
         ImGui::SliderFloat("dolly", &dolly, -50.0f, 50.0f);
+        ImGui::Text("Application average %.3f ms/frame (%.1f FPS)", 1000.0f / ImGui::GetIO().Framerate, ImGui::GetIO().Framerate);
         ImGui::End();
 
         ImGui::SetNextWindowSize({ 100, 300 }, ImGuiSetCond_FirstUseEver);
@@ -311,4 +339,44 @@ int main(void)
     stbi_image_free(image);
 
     exit(EXIT_SUCCESS);
+}
+
+
+
+void onKeyPress(GLFWwindow* window, int key, int scancode, int action, int mods)
+{
+    if (key == GLFW_KEY_ESCAPE && action == GLFW_PRESS) glfwSetWindowShouldClose(window, GL_TRUE);
+}
+
+void onMouseMove(GLFWwindow* window, double xpos, double ypos)
+{
+
+    // ImGuiWindow* window = ImGui::FindHoveredWindow({xpos, ypos});
+
+    if (isMousePressed)
+    {
+        double dx { xpos - mouseLastX };
+        double dy { ypos - mouseLastY };
+
+        horizontalAngle += mouseSensitivity * dx;
+        verticalAngle += mouseSensitivity * dy;
+
+        mouseLastX = xpos;
+        mouseLastY = ypos;
+    }
+}
+
+void onMousePress(GLFWwindow* window, int button, int action, int mods)
+{
+    glfwGetCursorPos(window, &mouseLastX, &mouseLastY);
+    isMousePressed = !ImGui::IsMouseHoveringAnyWindow() && action == GLFW_PRESS;
+}
+
+/** Extract vec3 from mat4
+ *  https://www.opengl.org/discussion_boards/showthread.php/178484-Extracting-camera-position-from-a-ModelView-Matrix
+ */
+inline vec3 positionFromMatrix(const mat4 & matrix)
+{
+  mat3 rotationMatrix(matrix);
+  return -matrix[3] * rotationMatrix;
 }
