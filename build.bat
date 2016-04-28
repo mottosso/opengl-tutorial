@@ -13,8 +13,8 @@ cl^
   -I "../ext/imgui/include"^
   -I "../ext/stb"^
   -I "../ext/glm"^
-  ../src/shader.cpp^
   ../src/main.cpp^
+  ../src/shader.cpp^
   ../ext/gl3w/src/gl3w.c^
   ../ext/imgui/src/imgui.cpp^
   ../ext/imgui/src/draw.cpp^
