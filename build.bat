@@ -1,6 +1,7 @@
 @echo off
 
 :: Prepare build directory
+mkdir build
 pushd build
 
 cl^
@@ -10,6 +11,7 @@ cl^
   -I "../include"^
   -I "../ext/gl3w/include"^
   -I "../ext/imgui/include"^
+  -I "../ext/stb"^
   -I "../ext/glm"^
   ../src/shader.cpp^
   ../src/main.cpp^
