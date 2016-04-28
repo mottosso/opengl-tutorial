@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <string>
 
 #include "GL/gl3w.h"
 #include "GLFW/glfw3.h"
@@ -18,7 +17,6 @@
 using namespace glm;
 
 // Temporary global variables
-float dt;
 bool isMousePressed { false }; // Is the mouse currently pressed?
 bool isMouseWithinWindow { false }; // Is the mouse currently within a window?
 float mouseSensitivity = 0.5f;
@@ -71,13 +69,13 @@ int main(void)
     glEnable(GL_CULL_FACE);
     glDepthFunc(GL_LESS);
 
-    GLuint vertexArrayId;
-    glGenVertexArrays(1, &vertexArrayId);
-    glBindVertexArray(vertexArrayId);
+    GLuint mVertexArrayId;
+    glGenVertexArrays(1, &mVertexArrayId);
+    glBindVertexArray(mVertexArrayId);
 
-    GLuint programId { Shader::Load("shader.vert", "shader.frag") };
+    GLuint mProgramId { Shader::Load("shader.vert", "shader.frag") };
 
-    GLint matrixId { glGetUniformLocation(programId, "MVP") };
+    GLint mMatrixId { glGetUniformLocation(mProgramId, "MVP") };
 
     int w, h, comp;
     static const char* fname { "texture.jpg" };
@@ -89,9 +87,9 @@ int main(void)
         exit(EXIT_FAILURE);
     }
 
-    GLuint texture;
-    glGenTextures(1, &texture);
-    glBindTexture(GL_TEXTURE_2D, texture);
+    GLuint mTexture;
+    glGenTextures(1, &mTexture);
+    glBindTexture(GL_TEXTURE_2D, mTexture);
 
     glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_MIN_FILTER, GL_LINEAR);
     glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_MAG_FILTER, GL_LINEAR_MIPMAP_LINEAR);
@@ -105,9 +103,12 @@ int main(void)
         exit(EXIT_FAILURE);;
     }
     
-    glBindTexture(GL_TEXTURE_2D, texture);
+    glBindTexture(GL_TEXTURE_2D, mTexture);
 
-    GLuint mySampler = glGetUniformLocation(programId, "mySampler");
+    // Delete once uploaded
+    stbi_image_free(image);
+
+    GLuint mMySampler = glGetUniformLocation(mProgramId, "mySampler");
 
     // A cube
     static const GLfloat vertexBufferData[] {
@@ -188,17 +189,17 @@ int main(void)
         0.667979f, 1.0f-0.335851f
     };
 
-    GLuint vertexBuffer;
-    glGenBuffers(1, &vertexBuffer);
-    glBindBuffer(GL_ARRAY_BUFFER, vertexBuffer);
+    GLuint mVertexBuffer;
+    glGenBuffers(1, &mVertexBuffer);
+    glBindBuffer(GL_ARRAY_BUFFER, mVertexBuffer);
     glBufferData(GL_ARRAY_BUFFER,
                  sizeof(vertexBufferData),
                  vertexBufferData,
                  GL_STATIC_DRAW);
 
-    GLuint uvBuffer;
-    glGenBuffers(1, &uvBuffer);
-    glBindBuffer(GL_ARRAY_BUFFER, uvBuffer);
+    GLuint mUvBuffer;
+    glGenBuffers(1, &mUvBuffer);
+    glBindBuffer(GL_ARRAY_BUFFER, mUvBuffer);
     glBufferData(GL_ARRAY_BUFFER,
                  sizeof(uvBufferData),
                  uvBufferData,
@@ -206,48 +207,42 @@ int main(void)
 
     glClearColor(0.1f, 0.1f, 0.1f, 1.0f);
 
-    bool showWindow { true };
+    bool mShowWindow { true };
     
     // Camera settings
-    float fov { 45.0f };
-    float near { 0.1f };
-    float far { 100.0f };
-    float dolly { 0.0f };
+    float mFov { 45.0f };
+    float mNear { 0.1f };
+    float mFar { 100.0f };
 
     // Object settings
-    float translateX { 0.0f };
-    float translateY { 0.0f };
-    float translateZ { 0.0f };
-    float rotateX { 0.0f };
-    float rotateY { 0.0f };
-    float rotateZ { 0.0f };
-    float scaleX { 1.0f };
-    float scaleY { 1.0f };
-    float scaleZ { 1.0f };
+    float mTranslateX { 0.0f };
+    float mTranslateY { 0.0f };
+    float mTranslateZ { 0.0f };
+    float mRotateX { 0.0f };
+    float mRotateY { 0.0f };
+    float mRotateZ { 0.0f };
+    float mScaleX { 1.0f };
+    float mScaleY { 1.0f };
+    float mScaleZ { 1.0f };
 
     // Close window on ESC
     glfwSetKeyCallback(window, onKeyPress);
     glfwSetCursorPosCallback(window, onMouseMove);
     glfwSetMouseButtonCallback(window, onMousePress);
 
-    double lastTime { glfwGetTime() };
     int displayWidth, displayHeight;
     while (!glfwWindowShouldClose(window))
     {
         glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);
 
-        // Compute time delta
-        dt = float(glfwGetTime() - lastTime);
-        lastTime = glfwGetTime();
-
-        glUseProgram(programId);
+        glUseProgram(mProgramId);
 
         glActiveTexture(GL_TEXTURE0);
-        glUniform1i(mySampler, 0);
+        glUniform1i(mMySampler, 0);
 
         NewFrame();
 
-        mat4 projection { perspective(radians(fov), 4.0f / 3.0f, near, far) };
+        mat4 projection { perspective(radians(mFov), 4.0f / 3.0f, mNear, mFar) };
         mat4 view { lookAt(
             vec3(4, 3, 3), // Camera position
             vec3(0, 0, 0), // Camera target
@@ -259,43 +254,41 @@ int main(void)
         view = rotate(view, radians(horizontalAngle), vec3(0.0f, 1.0f, 0.0f));
 
         mat4 model { mat4(1.0f) };
-        model = translate(model, vec3(translateX, translateY, translateZ));
-        model = rotate(model, radians(rotateX), vec3(1.0f, 0.0f, 0.0f));
-        model = rotate(model, radians(rotateY), vec3(0.0f, 1.0f, 0.0f));
-        model = rotate(model, radians(rotateZ), vec3(0.0f, 0.0f, 1.0f));
-        model = scale(model, vec3(scaleX, scaleY, scaleZ));
+        model = translate(model, vec3(mTranslateX, mTranslateY, mTranslateZ));
+        model = rotate(model, radians(mRotateX), vec3(1.0f, 0.0f, 0.0f));
+        model = rotate(model, radians(mRotateY), vec3(0.0f, 1.0f, 0.0f));
+        model = rotate(model, radians(mRotateZ), vec3(0.0f, 0.0f, 1.0f));
+        model = scale(model, vec3(mScaleX, mScaleY, mScaleZ));
 
         mat4 MVP { projection * view * model };
 
         ImGui::SetNextWindowSize({ 200, 130 }, ImGuiSetCond_FirstUseEver);
 
-        ImGui::Begin("Camera", &showWindow);
-        ImGui::SliderFloat("fov", &fov, 0.1f, 100.0f);
-        ImGui::SliderFloat("near", &near, 0.1f, 20.0f);
-        ImGui::SliderFloat("far", &far, 0.0f, 20.0f);
-        ImGui::SliderFloat("dolly", &dolly, -50.0f, 50.0f);
+        ImGui::Begin("Camera", &mShowWindow);
+        ImGui::SliderFloat("mFov", &mFov, 0.1f, 100.0f);
+        ImGui::SliderFloat("mNear", &mNear, 0.1f, 20.0f);
+        ImGui::SliderFloat("mFar", &mFar, 0.0f, 20.0f);
         ImGui::Text("Application average %.3f ms/frame (%.1f FPS)", 1000.0f / ImGui::GetIO().Framerate, ImGui::GetIO().Framerate);
         ImGui::End();
 
         ImGui::SetNextWindowSize({ 100, 300 }, ImGuiSetCond_FirstUseEver);
-        ImGui::Begin("Transform", &showWindow);
-        ImGui::SliderFloat("tx", &translateX, -10.0f, 10.0f);
-        ImGui::SliderFloat("ty", &translateY, -10.0f, 10.0f);
-        ImGui::SliderFloat("tz", &translateZ, -10.0f, 10.0f);
-        ImGui::SliderFloat("rx", &rotateX, -150.0f, 150.0f);
-        ImGui::SliderFloat("ry", &rotateY, -150.0f, 150.0f);
-        ImGui::SliderFloat("rz", &rotateZ, -150.0f, 150.0f);
-        ImGui::SliderFloat("sx", &scaleX, 0.0f, 3.0f);
-        ImGui::SliderFloat("sy", &scaleY, 0.0f, 3.0f);
-        ImGui::SliderFloat("sz", &scaleZ, 0.0f, 3.0f);
+        ImGui::Begin("Transform", &mShowWindow);
+        ImGui::SliderFloat("tx", &mTranslateX, -10.0f, 10.0f);
+        ImGui::SliderFloat("ty", &mTranslateY, -10.0f, 10.0f);
+        ImGui::SliderFloat("tz", &mTranslateZ, -10.0f, 10.0f);
+        ImGui::SliderFloat("rx", &mRotateX, -150.0f, 150.0f);
+        ImGui::SliderFloat("ry", &mRotateY, -150.0f, 150.0f);
+        ImGui::SliderFloat("rz", &mRotateZ, -150.0f, 150.0f);
+        ImGui::SliderFloat("sx", &mScaleX, 0.0f, 3.0f);
+        ImGui::SliderFloat("sy", &mScaleY, 0.0f, 3.0f);
+        ImGui::SliderFloat("sz", &mScaleZ, 0.0f, 3.0f);
         ImGui::End();
 
-        glUniformMatrix4fv(matrixId, 1, GL_FALSE, &MVP[0][0]);
+        glUniformMatrix4fv(mMatrixId, 1, GL_FALSE, &MVP[0][0]);
 
-        glfwPollEvents();
 
         glEnableVertexAttribArray(0);
-        glBindBuffer(GL_ARRAY_BUFFER, vertexBuffer);
+        glBindBuffer(GL_ARRAY_BUFFER, mVertexBuffer);
         glVertexAttribPointer(
             0,         // attribute
             3,         // dimensions
@@ -306,7 +299,7 @@ int main(void)
         );
 
         glEnableVertexAttribArray(1);
-        glBindBuffer(GL_ARRAY_BUFFER, uvBuffer);
+        glBindBuffer(GL_ARRAY_BUFFER, mUvBuffer);
         glVertexAttribPointer(
             1,
             2,          // size : U+V == 2
@@ -327,20 +320,19 @@ int main(void)
         glViewport(0, 0, displayWidth, displayHeight);
 
         glfwSwapBuffers(window);
+        glfwPollEvents();
     }
 
-    glDeleteBuffers(1, &vertexBuffer);
-    glDeleteBuffers(1, &uvBuffer);
-    glDeleteProgram(programId);
-    glDeleteVertexArrays(1, &vertexArrayId);
+    glDeleteBuffers(1, &mVertexBuffer);
+    glDeleteBuffers(1, &mUvBuffer);
+    glDeleteProgram(mProgramId);
+    glDeleteVertexArrays(1, &mVertexArrayId);
 
     Shutdown();
     glfwTerminate();
-    stbi_image_free(image);
 
     exit(EXIT_SUCCESS);
 }
-
 
 
 void onKeyPress(GLFWwindow* window, int key, int scancode, int action, int mods)
@@ -350,9 +342,6 @@ void onKeyPress(GLFWwindow* window, int key, int scancode, int action, int mods)
 
 void onMouseMove(GLFWwindow* window, double xpos, double ypos)
 {
-
-    // ImGuiWindow* window = ImGui::FindHoveredWindow({xpos, ypos});
-
     if (isMousePressed)
     {
         double dx { xpos - mouseLastX };
@@ -377,6 +366,9 @@ void onMousePress(GLFWwindow* window, int button, int action, int mods)
  */
 inline vec3 positionFromMatrix(const mat4 & matrix)
 {
-  mat3 rotationMatrix(matrix);
-  return -matrix[3] * rotationMatrix;
+  mat3 rotMat(matrix);
+  vec3 d(matrix[3]);
+ 
+  vec3 retVec = -d * rotMat;
+  return retVec;
 }
